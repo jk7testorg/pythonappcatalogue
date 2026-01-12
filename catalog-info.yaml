@@ -7,9 +7,10 @@ metadata:
     github.com/project-slug: Madryx/python-app
     #backstage.io/techdocs-ref: dir:.
 spec:
-  type: service
+  type: component
   owner: guest
   lifecycle: experimental
+
 
 
 
