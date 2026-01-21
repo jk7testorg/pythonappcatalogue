@@ -4,6 +4,7 @@ metadata:
   name: python-app
   annotations:
     github.com/project-slug: jk7testorg/pythonappcatalogue
+    jenkins.io/job-full-name: backstage/backstagegittestpipeline
 spec:
   type: other
   lifecycle: unknown
